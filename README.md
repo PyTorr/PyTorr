@@ -1,5 +1,5 @@
 <!-- ![GitHub Logo](https://github.com/PyTorr/PyTorr/blob/main/Capture.PNG) -->
-<img src="https://github.com/PyTorr/PyTorr/blob/main/Capture.PNG" width="200">
+<img src="https://github.com/PyTorr/PyTorr/blob/main/Capture.PNG" width="500">
 
 
 Hi, I’m PyTorr. 
