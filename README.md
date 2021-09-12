@@ -1,6 +1,6 @@
 <!-- ![GitHub Logo](https://github.com/PyTorr/PyTorr/blob/main/Capture.PNG) -->
 <p align="center">
-  <img src="https://github.com/PyTorr/PyTorr/blob/main/pytorr.jpg" width="800">
+  <img src="https://github.com/PyTorr/PyTorr/blob/main/pytorr.jpeg" width="800">
 </p>
 
 
